@@ -6,11 +6,8 @@
 ## 🥱About me
 
 - Name: CodeKun / Zachary
-- Site: Shanghai, China
-- Bio
-   - Lifelong learners.
-   - Yearning for engineering culture.
-
+- Location: Shanghai, China
+- Bio: Engineering, Beauty, and a Longing for the Infinite
 
 ## 📈Statistics
 
